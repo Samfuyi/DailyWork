@@ -47,7 +47,7 @@ public class Work {
 
     "明天（" + getDate("-") + "）工作计划\r\n" +
 
-    "1、协助手机银行测试新加的三个交易的功能";
+    "1、协助手机银行测试新加的三个交易的功能啦啦啦";
 
     public static void main(String[] args) {
         if (createFolder()) {
