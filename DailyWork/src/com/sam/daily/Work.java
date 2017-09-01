@@ -62,6 +62,7 @@ public class Work {
 
     private static String getDate(String symbol) {
         SimpleDateFormat df = new SimpleDateFormat("yyyy" + symbol + "M" + symbol + "dd");
+        System.out.println("hahahha");
         return df.format(new Date());
     }
 
