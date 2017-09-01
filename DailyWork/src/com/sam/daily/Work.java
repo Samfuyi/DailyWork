@@ -52,6 +52,7 @@ public class Work {
     public static void main(String[] args) {
         if (createFolder()) {
             try {
+                System.out.println("llsls");
                 writeToFile();
             } catch (IOException e) {
                 // TODO Auto-generated catch block
